@@ -1,2 +1,2 @@
-# Token-Checker
-A simple program to check discord account with token
+# Information
+token checker is a program to check discord accounts using tokens
